@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-11-01T18:50:00+09:00",
+  "races": [
+    {
+      "id": "2026-11-07-keio-hai-2sai-s",
+      "name": "京王杯2歳ステークス",
+      "grade": "G2",
+      "date": "2026-11-07",
+      "time": "15:35",
+      "venue": "東京",
+      "course": "芝1400m",
+      "status": "preparing"
+    },
+    {
+      "id": "2026-11-07-kyoto-jump-s",
+      "name": "京都ジャンプステークス",
+      "grade": "G3",
+      "date": "2026-11-07",
+      "time": "",
+      "venue": "京都",
+      "course": "障害",
+      "status": "preparing",
+      "note": "障害重賞（J・G3）"
+    },
+    {
+      "id": "2026-11-08-argentina",
+      "name": "アルゼンチン共和国杯",
+      "grade": "G2",
+      "date": "2026-11-08",
+      "time": "15:30",
+      "venue": "東京",
+      "course": "芝2500m",
+      "status": "provisional",
+      "headline": "暫定本命はビザンチンドリーム。ハンデ・枠順・馬場が出たら更新します。"
+    },
+    {
+      "id": "2026-11-08-miyako-s",
+      "name": "みやこステークス",
+      "grade": "G3",
+      "date": "2026-11-08",
+      "time": "",
+      "venue": "京都",
+      "course": "ダート1800m",
+      "status": "preparing"
+    }
+  ]
+}
